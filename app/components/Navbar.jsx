@@ -25,6 +25,7 @@ const Navbar = () => {
             <li>ABOUT US</li>
           </Link>
         </ul>
+
         <div className='sm:hidden'>
           <AiOutlineMenu size={32} />
         </div>
